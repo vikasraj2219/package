@@ -1,1 +1,1 @@
-console.log("my package");
+console.log("my first package");
